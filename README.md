@@ -76,9 +76,6 @@ Once you have a complete database, do the following:
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
-## Rubric
-
-[Unit 9 Rubric - SQL Homework - Employee Database: A Mystery in Two Parts](https://docs.google.com/document/d/1OksnTYNCT0v0E-VkhIMJ9-iG0_oXNwCZAJlKV0aVMKQ/edit?usp=sharing)
 
 - - -
 
